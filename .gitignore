@@ -1,0 +1,13 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore all node modules
+client/node_modules/
+server/node_modules
+
+.vscode
+
+.DS_Store
